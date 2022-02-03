@@ -20,6 +20,11 @@
 | `--smtp_port`           | SMTP server port | none |
 
 
+### Please be informed that you should put into examples next arguments
+```sh
+--smtp_user {} --smtp_pass {} --smtp_host {} --smtp_port {} --mail_cc {} --mail_from 
+```
+
 ## To request client certificate
 
 ```sh
